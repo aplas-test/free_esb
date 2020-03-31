@@ -1,21 +1,25 @@
 {
-  "id": "free_esb",
-  "name": "Free ESB",
-  "categoryId": "accounting",
-  "description": "Virtual client-driven support",
-  "investment_24m": "276",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "71",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "90",
-  "deployment_date": "15/10/02",
-  "end_of_maintenance": "12/1/18",
-  "department": "Accounting",
-  "status": "Active",
-  "end_of_life": "21/11/18",
-  "sme_name": "Hector Husher",
-  "months_to_renew_support": "19",
-  "sme_email": "Hector.Husher@memento.net.au",
-  "investment_number": "115"
+  "applications": [
+    {
+      "id": "free_esb",
+      "name": "Free ESB",
+      "categoryId": "accounting",
+      "description": "Virtual client-driven support",
+      "investment_24m": "276",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "71",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "90",
+      "deployment_date": "15/10/02",
+      "end_of_maintenance": "12/1/18",
+      "department": "Accounting",
+      "status": "Active",
+      "end_of_life": "21/11/18",
+      "sme_name": "Hector Husher",
+      "months_to_renew_support": "19",
+      "sme_email": "Hector.Husher@memento.net.au",
+      "investment_number": "115"
+    }
+  ]
 }
