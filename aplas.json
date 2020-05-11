@@ -9,24 +9,23 @@
       "description": "Virtual client-driven support",
       "categoryId": "accounting",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "71",
       "status_color": "#00FF00",
       "department": "Accounting",
       "hostedtype": "OnPremise",
       "deployment_date": "15/10/02",
-      "investment_number": "115",
+      "investment_number": 115,
       "type": "OffShelf",
       "sme_email": "Hector.Husher@memento.net.au",
       "investment_24m": "276",
       "sme_name": "Hector Husher",
       "support_cost": "90",
       "end_of_life": "21/11/18",
-      "months_to_renew_support": "19",
+      "months_to_renew_support": 19,
       "end_of_maintenance": "12/1/18",
       "integrations": [
         {
-          "assetId": "int-222",
+          "id": "int-222",
           "name": "INT-222",
           "shortName": null,
           "version": "0.95",
@@ -34,7 +33,6 @@
           "payload": "cNcStatusUpdate",
           "targetApplicationId": "cookley",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -47,7 +45,7 @@
           "golive_date": "21/2/11"
         },
         {
-          "assetId": "int-129",
+          "id": "int-129",
           "name": "INT-129",
           "shortName": null,
           "version": "5.4.1",
@@ -55,7 +53,6 @@
           "payload": "Product Data Refresh",
           "targetApplicationId": "cookley",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -68,7 +65,7 @@
           "golive_date": "15/1/17"
         },
         {
-          "assetId": "int-043",
+          "id": "int-043",
           "name": "INT-043",
           "shortName": null,
           "version": "6.66",
@@ -76,7 +73,6 @@
           "payload": "Minimum/",
           "targetApplicationId": "cookley",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Gerri Gwyllt",
           "status_color": "#FFFF08",
           "department": "Datawarehouse",
@@ -89,7 +85,7 @@
           "golive_date": "14/9/02"
         },
         {
-          "assetId": "int-232",
+          "id": "int-232",
           "name": "INT-232",
           "shortName": null,
           "version": "6.68",
@@ -97,7 +93,6 @@
           "payload": "cNcStatusUpdate",
           "targetApplicationId": "cookley",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Guenna Kix",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -110,7 +105,7 @@
           "golive_date": "30/7/17"
         },
         {
-          "assetId": "int-346",
+          "id": "int-346",
           "name": "INT-346",
           "shortName": null,
           "version": "0.7.1",
@@ -118,7 +113,6 @@
           "payload": "Backdated Sales, rebates, returns",
           "targetApplicationId": "cookley",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#0000FF",
           "department": "Integration",
@@ -131,7 +125,7 @@
           "golive_date": "30/1/05"
         },
         {
-          "assetId": "int-138",
+          "id": "int-138",
           "name": "INT-138",
           "shortName": null,
           "version": "0.7.7",
@@ -139,7 +133,6 @@
           "payload": "Style creation",
           "targetApplicationId": "cookley",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Gabriel Van Hault",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
